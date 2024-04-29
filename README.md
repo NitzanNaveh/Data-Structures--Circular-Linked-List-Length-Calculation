@@ -41,12 +41,3 @@ The code should be thoroughly tested with various test cases, including:
 
 Test cases should cover edge cases and ensure the correctness of the solution.
 
-## Submission
-
-The submission should include:
-
-- The source code file(s)
-- A README file with instructions on how to compile and run the code
-- Any additional files or resources needed for testing or understanding the solution
-
-Please ensure that the code is well-structured, follows best coding practices, and is thoroughly commented for clarity.
